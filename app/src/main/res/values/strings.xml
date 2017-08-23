@@ -1,0 +1,25 @@
+<resources>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="app_name">AdminUserTypeLogin</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="select_user_type">Select User Type</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="add_user">Add User</string>
+    <string name="approved_user">Approved User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="show_profile">Show Profile</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log Out</string>
+    <string name="settings">Settings</string>
+</resources>
